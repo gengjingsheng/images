@@ -1,1 +1,2 @@
-test
+From quay.io/coreos/flannel:v0.11.0-amd64
+MAINTAINER polarwu <389952684@qq.com>
